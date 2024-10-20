@@ -21,21 +21,19 @@
 
 <!--laptop gif-->
 
-<p >
-  <img align="left" width="360px" src="https://github.com/demartini/demartini/blob/master/code.gif">
+<p align="centre">
+  <img  width="360px" src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
 <!--Connect with me -->
 
-<p align="left">
+<p >
+    <h1>Connect with me</h1>
   <a href="https://linkedin.com/in/kartik-saxena-2098b4270" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/kartik.19__/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="saxenaaashu74@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C
-" alt="Gmail"/>
   </a>
 </p>
