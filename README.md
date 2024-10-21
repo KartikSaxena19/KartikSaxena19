@@ -9,6 +9,7 @@
 
 
 - 🌱 I’m currently learning ai-ml
+- Currently working on <a href="https://github.com/KartikSaxena19/HandDetectorCalculator">Virtual Calulator</a>
 
 <!-- tools that i learned -->
 
