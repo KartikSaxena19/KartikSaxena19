@@ -11,8 +11,8 @@
 <!-- Profile view -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kartiksaxena19&label=Profile%20views&color=0e75b6&style=flat" alt="kartiksaxena19" /> </p>
 
-- 🌱 I’m currently learning ai-ml
-- Currently working on <a href="https://github.com/KartikSaxena19/HandDetectorCalculator">Virtual Calulator</a>
+- 🌱 I'm interested in web development and cp
+- You can see my all project on my <a href="https://github.com/KartikSaxena19/HandDetectorCalculator](https://portfolio-nine-lac-46.vercel.app/">Portfolio</a>
 
 <!--laptop gif-->
 
